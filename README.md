@@ -1,7 +1,5 @@
-# orders_analysis
-Developed a comprehensive data analysis project utilizing Python in Jupyter Notebook for data manipulation and cleaning, and SQL in MySQL for efficient data querying and aggregation.
 # Data Analysis Project
-
+Developed a comprehensive data analysis project utilizing Python in Jupyter Notebook for data manipulation and cleaning, and SQL in MySQL for efficient data querying and aggregation.
 This project involves SQL queries designed for analyzing sales data from an `orders` table. The queries derive insights about product performance, regional sales, monthly comparisons, and category growth.
 
 ## SQL Queries
