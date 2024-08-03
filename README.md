@@ -16,3 +16,5 @@ FROM orders
 GROUP BY product_id
 ORDER BY sales DESC
 LIMIT 10;
+
+### 2. Top 5 Highest Selling Products in Each Region
